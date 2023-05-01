@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-2KrLtgbAAM
+- Live Site URL: https://gleaming-lokum-3993f4.netlify.app/
 
 ## My process
 
@@ -91,8 +91,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://gleaming-lokum-3993f4.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DezzaAnnePeregrina)
-- Twitter - [@yourusername](https://www.twitter.com/dezzaperegrina)
+- Frontend Mentor - https://www.frontendmentor.io/profile/DezzaAnnePeregrina
+- Twitter - https://www.twitter.com/dezzaperegrina
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
